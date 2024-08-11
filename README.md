@@ -3,7 +3,7 @@ Looking for an opportunity to be part of a collaborative environment where I can
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/someswar.sivakavi.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myself___someswar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/someswar-sivakavi-530405266/) [![Portfolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2Fiohhwhm_portfolio-logo-png-portfolio-text-png-transparent-png%2F&psig=AOvVaw3cy2Da1M9pnoxtS_TG06Xd&ust=1723440613302000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjlweGa7IcDFQAAAAAdAAAAABAE)](https://someswar-portfolio.vercel.app)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/someswar.sivakavi.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myself___someswar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/someswar-sivakavi-530405266/) [![Portfolio](https://www.vhv.rs/dpng/d/247-2473909_portfolio-logo-png-portfolio-text-png-transparent-png.png)](https://someswar-portfolio.vercel.app)
 
 
 # 💻 Tech Stack:
